@@ -15,7 +15,7 @@ clear all
 
 * How can you run this file?
 * Just change the path of the working folder in the next line
-global projdir "C:\Users\nikhi\Downloads\Brookings Task"
+global projdir "C:\Users\nikhi\Downloads\Stata"
 
 * raw data folder
 global raw "$projdir\Raw Data"
